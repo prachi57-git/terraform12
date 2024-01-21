@@ -1,3 +1,3 @@
-resource "aws_eip" "myeip23" {
+/*resource "aws_eip" "myeip23" {
    vpc = true
-}
+}*/
